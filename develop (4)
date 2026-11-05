@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	branch: Created from HEAD
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb 10905b0f753eb83b4804e76575483c8a079b6c80 Sinh viên <sv@example.com> 1793843877 +0000	merge feature/database: Merge made by the 'ort' strategy.
+10905b0f753eb83b4804e76575483c8a079b6c80 13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d Sinh viên <sv@example.com> 1793843877 +0000	merge feature/api: Merge made by the 'ort' strategy.
+13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d 51ae28c473f945dfa7d7b0bc1d99dddf56a56316 Sinh viên <sv@example.com> 1793843877 +0000	merge feature/ui: Merge made by the 'ort' strategy.
+51ae28c473f945dfa7d7b0bc1d99dddf56a56316 00d285dfc31ef1fed2b9f22b0a4608c226034a7f Sinh viên <sv@example.com> 1793843877 +0000	commit: test: kiểm thử nghiệp vụ và API
+00d285dfc31ef1fed2b9f22b0a4608c226034a7f b5f32e1c59b1481b05e7add08112499bfbaec855 Sinh viên <sv@example.com> 1793843877 +0000	commit: ci: build, Dockerfile và GitHub Actions
+b5f32e1c59b1481b05e7add08112499bfbaec855 4927fa0d94f5f2f24a3b9f403103b6f8c8a59e5f Sinh viên <sv@example.com> 1793843877 +0000	commit: docs: README và nội dung Chương 4

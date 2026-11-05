@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	commit (initial): chore: khởi tạo dự án, cấu hình định dạng và lint
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from main to develop
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from develop to feature/database
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb ae58687a1748173426e0856263016d138cdee168 Sinh viên <sv@example.com> 1793843877 +0000	commit: feat(db): lược đồ SQLite, ràng buộc và script seed
+ae58687a1748173426e0856263016d138cdee168 cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from feature/database to develop
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb 10905b0f753eb83b4804e76575483c8a079b6c80 Sinh viên <sv@example.com> 1793843877 +0000	merge feature/database: Merge made by the 'ort' strategy.
+10905b0f753eb83b4804e76575483c8a079b6c80 10905b0f753eb83b4804e76575483c8a079b6c80 Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from develop to feature/api
+10905b0f753eb83b4804e76575483c8a079b6c80 65f9e7ef5e4644bce279a01c73faec9d07b19515 Sinh viên <sv@example.com> 1793843877 +0000	commit: feat(api): xác thực, phân quyền, bán hàng, nạp tiền, báo cáo ngày/tháng
+65f9e7ef5e4644bce279a01c73faec9d07b19515 10905b0f753eb83b4804e76575483c8a079b6c80 Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from feature/api to develop
+10905b0f753eb83b4804e76575483c8a079b6c80 13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d Sinh viên <sv@example.com> 1793843877 +0000	merge feature/api: Merge made by the 'ort' strategy.
+13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d 13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from develop to feature/ui
+13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d 71bf9244887e7e2ee9a2ed89a81e045a190796e5 Sinh viên <sv@example.com> 1793843877 +0000	commit: feat(ui): giao diện hồng pastel theo vai trò, mã QR riêng
+71bf9244887e7e2ee9a2ed89a81e045a190796e5 13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from feature/ui to develop
+13f0b9903cadd37020b6a9a7d94d7fe95cf2c52d 51ae28c473f945dfa7d7b0bc1d99dddf56a56316 Sinh viên <sv@example.com> 1793843877 +0000	merge feature/ui: Merge made by the 'ort' strategy.
+51ae28c473f945dfa7d7b0bc1d99dddf56a56316 00d285dfc31ef1fed2b9f22b0a4608c226034a7f Sinh viên <sv@example.com> 1793843877 +0000	commit: test: kiểm thử nghiệp vụ và API
+00d285dfc31ef1fed2b9f22b0a4608c226034a7f b5f32e1c59b1481b05e7add08112499bfbaec855 Sinh viên <sv@example.com> 1793843877 +0000	commit: ci: build, Dockerfile và GitHub Actions
+b5f32e1c59b1481b05e7add08112499bfbaec855 4927fa0d94f5f2f24a3b9f403103b6f8c8a59e5f Sinh viên <sv@example.com> 1793843877 +0000	commit: docs: README và nội dung Chương 4
+4927fa0d94f5f2f24a3b9f403103b6f8c8a59e5f cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	checkout: moving from develop to main
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb 45fddd41b8b4a5679ec60ce8177cb2da03221bf6 Sinh viên <sv@example.com> 1793843877 +0000	merge develop: Merge made by the 'ort' strategy.

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 cc9e88421f767eb5b6d860b9002d5d55fc901cfb Sinh viên <sv@example.com> 1793843877 +0000	branch: Created from HEAD
+cc9e88421f767eb5b6d860b9002d5d55fc901cfb ae58687a1748173426e0856263016d138cdee168 Sinh viên <sv@example.com> 1793843877 +0000	commit: feat(db): lược đồ SQLite, ràng buộc và script seed
